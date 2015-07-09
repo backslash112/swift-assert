@@ -10,3 +10,12 @@ import Foundation
 
 println("Hello, World!")
 
+let age = 210
+
+assert(age > 0 && age < 150, "An unreasonble age!")
+
+
+
+
+
+println("success!")
